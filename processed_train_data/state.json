@@ -1,0 +1,34 @@
+{
+  "_data_files": [
+    {
+      "filename": "data-00000-of-00002.arrow"
+    },
+    {
+      "filename": "data-00001-of-00002.arrow"
+    }
+  ],
+  "_fingerprint": "94884c68d1d6aa75",
+  "_format_columns": [
+    "frame_num",
+    "input",
+    "instruction",
+    "output",
+    "lane_geom_descriptors",
+    "lane_topo_descriptors",
+    "agents_descriptors",
+    "ego_vehicle_descriptor",
+    "bev_descriptors",
+    "plan_query",
+    "ego_command_descriptors",
+    "input_ids",
+    "attention_mask",
+    "labels",
+    "user_input_ids",
+    "user_attention_mask",
+    "question_ids"
+  ],
+  "_format_kwargs": {},
+  "_format_type": null,
+  "_output_all_columns": false,
+  "_split": null
+}
